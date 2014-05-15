@@ -2,7 +2,7 @@
 
 //--------------------------------------------------------------
 void ofApp::setup(){
-    floatingWindow.setup(true);
+    floatingWindow.setupWithIgnoringMouseEvents(true);
 }
 
 //--------------------------------------------------------------

@@ -11,5 +11,5 @@
 
 class ofxCocoaFloatingWindow {
 public:
-    void setup(bool bIgnoreMouseEvents);
+    void setupWithIgnoringMouseEvents(bool bIgnoreMouseEvents);
 };
